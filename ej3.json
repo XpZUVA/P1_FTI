@@ -1,0 +1,144 @@
+{
+"atracciones":[{
+    "ID":"PLA-01",
+    "claveMan":"MANT-01",
+    "nombre":"Carrusel",
+    "estado":"OP",
+    "tipo":"Infantil",
+    "intensidad":"Suave",
+    "alturaMin":1.20,
+    "express":false,
+    "fechaRevision":"2023-02-20"
+},
+{
+    "ID":"PLA-02",
+    "claveMan":"MANT-02",
+    "nombre":"Motospeed",
+    "estado":"OP",
+    "tipo":"Montaña Rusa",
+    "intensidad":"Moderada",
+    "alturaMin":1.20,
+    "alturaMax":1.95,
+    "express":true,
+    "fechaRevision":"2023-11-01"
+},
+{
+    "ID":"PLA-03",
+    "claveMan":"MANT-03",
+    "nombre":"Caída libre",
+    "estado":"OP",
+    "intensidad":"Intensa",
+    "alturaMin":1.40,
+    "alturaMax":1.95,
+    "express":true,
+    "fechaRevision":"2024-01-02"
+},
+{
+    "ID":"TFW-01",
+    "claveMan":"MANT-04",
+    "nombre":"Saloon",
+    "estado":"OP",
+    "tipo":"Giratoria",
+    "intensidad":"Moderada",
+    "alturaMin":1.30,
+    "express":true,
+    "fechaRevision":"2021-01-01"
+},{
+    "ID":"TFW-02",
+    "claveMan":"MANT-05",
+    "nombre":"Iron Cowboy",
+    "estado":"OB",
+    "tipo":"Montaña Rusa",
+    "intensidad":"Intensa",
+    "alturaMin":1.20,
+    "alturaMax":1.90,
+    "express":true
+},
+{
+    "ID":"TFW-03",
+    "claveMan":"MANT-06",
+    "nombre":"Rápidos de Río Grande",
+    "estado":"OP",
+    "tipo":"Acuática",
+    "intensidad":"Moderada",
+    "alturaMin":1.00,
+    "express":true,
+    "fechaRevision":"2024-01-02"
+},
+{
+    "ID":"PIR-01",
+    "claveMan":"MANT-07",
+    "nombre":"Barco Pirata",
+    "estado":"CE",
+    "intensidad":"Moderada",
+    "alturaMin":1.20,
+    "express":false
+},{
+    "ID":"PIR-02",
+    "claveMan":"MANT-08",
+    "nombre":"Minibarco",
+    "estado":"OP",
+    "tipo":"Infantil",
+    "intensidad":"Suave",
+    "alturaMax":1.20,
+    "express":false,
+    "fechaRevision":"2024-02-03"
+},
+{
+    "ID":"PIR-03",
+    "claveMan":"MANT-08",
+    "nombre":"El Kraken",
+    "estado":"CE",
+    "tipo":"Giratoria",
+    "intensidad":"Intensa",
+    "alturaMin":1.40,
+    "express":true,
+    "fechaRevision":"2023-08-04"
+},
+{
+    "ID":"PIR-04",
+    "claveMan":"MANT-09",
+    "nombre":"Siete Mares",
+    "estado":"OP",
+    "tipo":"Montaña Rusa",
+    "intensidad":"Intensa",
+    "alturaMin":1.40,
+    "express":true,
+    "fechaRevision":"2023-12-02"
+},
+{
+    "ID":"CCL-01",
+    "claveMan":"MANT-10",
+    "nombre":"Pequecoaster",
+    "estado":"OP",
+    "tipo":"Montaña Rusa",
+    "intensidad":"Suave",
+    "alturaMin":0.80,
+    "express":true,
+    "fechaRevision":"2023-12-02"
+},
+{
+    "ID":"FUT-02",
+    "claveMan":"MANT-11",
+    "nombre":"Nave alocada",
+    "estado":"OP",
+    "tipo":"Giratoria",
+    "intensidad":"Moderada",
+    "alturaMin":1.00,
+    "express":false,
+    "fechaRevision":"2023-08-04"
+},
+{
+    "ID":"FUT-02",
+    "claveMan":"MANT-12",
+    "nombre":"AquaUFO",
+    "estado":"OP",
+    "tipo":"Acuática",
+    "intensidad":"Moderada",
+    "alturaMin":1.00,
+    "alturaMax":1.90,
+    "express":true,
+    "fechaRevision":"20219-11-01"
+
+}]
+}
