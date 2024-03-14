@@ -2,23 +2,56 @@
 <parque>
     <responsables>
         <responsable UID="0000">
-            <area>true</area>
+            <area>area</area>
         </responsable>
         <responsable UID="0001">
-            <tecnico>true</tecnico>
+            <tecnico>tecnico</tecnico>
         </responsable>
         <responsable UID="0002">
-            <tecnico>true</tecnico>
+            <tecnico>tecnico</tecnico>
         </responsable>
         <responsable UID="0003">
-            <area>true</area>
+            <area>area</area>
+        </responsable>
+        <responsable UID="0004">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0005">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0006">
+            <area>area</area>
+        </responsable>
+        <responsable UID="0007">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0008">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0009">
+            <area>area</area>
+        </responsable>
+        <responsable UID="0010">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0011">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0012">
+            <area>area</area>
+        </responsable>
+        <responsable UID="0013">
+            <tecnico>tecnico</tecnico>
+        </responsable>
+        <responsable UID="0014">
+            <tecnico>tecnico</tecnico>
         </responsable>
     </responsables>
     <atracciones>
         <atraccion ID="PLA-01" claveMan="MANT-01">
             <nombreComercial>Carrusel</nombreComercial>
             <estado>OP</estado>
-            <tipo>Infantil</tipo>
+            <tipo>Giratoria</tipo>
             <lvlIntesidad>Suave</lvlIntesidad>
             <alturaMin>0.80</alturaMin>
             <accesoExpress>false</accesoExpress>
