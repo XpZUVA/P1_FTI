@@ -2,170 +2,55 @@
     "atracciones": [
       {
         "ID": "PLA-01",
-        "claveMan": "MANT-01",
-        "nombre": "Carrusel",
-        "estado": "OP",
-        "tipo": "Giratoria",
-        "intensidad": "Suave",
-        "alturaMin": 0.80,
-        "express": false,
-        "fechaRevision": "2023-02-20",
-        "tEspera": 20
+        "tiempo":[20, -1]
       },
       {
         "ID": "PLA-02",
-        "claveMan": "MANT-02",
-        "nombre": "Motospeed",
-        "estado": "OP",
-        "tipo": "Montaña Rusa",
-        "intensidad": "Moderada",
-        "alturaMin": 1.20,
-        "alturaMax": 1.95,
-        "express": true,
-        "fechaRevision": "2023-11-01",
-        "tEspera": 10,
-        "tExpress": 5
+        "tiempo":[10, 5]
       },
       {
         "ID": "PLA-03",
-        "claveMan": "MANT-03",
-        "nombre": "Caída libre",
-        "estado": "OP",
-        "tipo": "Atraccion",
-        "intensidad": "Intensa",
-        "alturaMin": 1.40,
-        "alturaMax": 1.95,
-        "express": true,
-        "fechaRevision": "2024-01-02",
-        "tEspera": 15,
-        "tExpress": 7
+        "tiempo":[15, 7]
       },
       {
         "ID": "TFW-01",
-        "claveMan": "MANT-04",
-        "nombre": "Saloon",
-        "estado": "OP",
-        "tipo": "Giratoria",
-        "intensidad": "Moderada",
-        "alturaMin": 1.30,
-        "express": true,
-        "fechaRevision": "2021-01-01",
-        "tEspera": 12,
-        "tExpress": 6
+        "tiempo":[12, 6]
       },
       {
         "ID": "TFW-02",
-        "claveMan": "MANT-05",
-        "nombre": "Iron Cowboy",
-        "estado": "OB",
-        "tipo": "Montaña Rusa",
-        "intensidad": "Intensa",
-        "alturaMin": 1.20,
-        "alturaMax": 1.90,
-        "express": true,
-        "tEspera": 8,
-        "tExpress": 4
+        "tiempo":[8, 4]
       },
       {
         "ID": "TFW-03",
-        "claveMan": "MANT-06",
-        "nombre": "Rápidos de Río Grande",
-        "estado": "OP",
-        "tipo": "Acuática",
-        "intensidad": "Moderada",
-        "alturaMin": 1.00,
-        "express": true,
-        "fechaRevision": "2024-01-02",
-        "tEspera": 25,
-        "tExpress": 12
+        "tiempo":[25, 12]
       },
       {
         "ID": "PIR-01",
-        "claveMan": "MANT-07",
-        "nombre": "Barco Pirata",
-        "estado": "CE",
-        "tipo": "Atraccion",
-        "intensidad": "Moderada",
-        "alturaMin": 1.20,
-        "express": false,
-        "tEspera": 18
+        "tiempo":[18, -1]
       },
       {
         "ID": "PIR-02",
-        "claveMan": "MANT-08",
-        "nombre": "Minibarco",
-        "estado": "OP",
-        "tipo": "Atraccion",
-        "intensidad": "Suave",
-        "alturaMax": 1.20,
-        "express": false,
-        "fechaRevision": "2024-02-03",
-        "tEspera": 22
+        "tiempo":[22, -1]
       },
       {
         "ID": "PIR-03",
-        "claveMan": "MANT-08",
-        "nombre": "El Kraken",
-        "estado": "CE",
-        "tipo": "Giratoria",
-        "intensidad": "Intensa",
-        "alturaMin": 1.40,
-        "express": true,
-        "fechaRevision": "2023-08-04",
-        "tEspera": 14,
-        "tExpress": 8
+        "tiempo":[14, 8]
       },
       {
         "ID": "PIR-04",
-        "claveMan": "MANT-09",
-        "nombre": "Siete Mares",
-        "estado": "OP",
-        "tipo": "Montaña Rusa",
-        "intensidad": "Intensa",
-        "alturaMin": 1.40,
-        "express": true,
-        "fechaRevision": "2023-12-02",
-        "tEspera": 11,
-        "tExpress": 5
+        "tiempo":[11, 5]
       },
       {
         "ID": "CCL-01",
-        "claveMan": "MANT-10",
-        "nombre": "Pequecoaster",
-        "estado": "OP",
-        "tipo": "Montaña Rusa",
-        "intensidad": "Suave",
-        "alturaMin": 0.80,
-        "express": true,
-        "fechaRevision": "2023-12-02",
-        "tEspera": 30,
-        "tExpress": 15
+        "tiempo":[30, 15]
       },
       {
         "ID": "FUT-01",
-        "claveMan": "MANT-11",
-        "nombre": "Nave alocada",
-        "estado": "OP",
-        "tipo": "Giratoria",
-        "intensidad": "Moderada",
-        "alturaMin": 1.00,
-        "express": false,
-        "fechaRevision": "2023-08-04",
-        "tEspera": 20
+        "tiempo":[20, -1]
       },
       {
         "ID": "FUT-02",
-        "claveMan": "MANT-12",
-        "nombre": "AquaUFO",
-        "estado": "OP",
-        "tipo": "Acuática",
-        "intensidad": "Moderada",
-        "alturaMin": 1.00,
-        "alturaMax": 1.90,
-        "express": true,
-        "fechaRevision": "2019-11-01",
-        "tEspera": 25,
-        "tExpress": 12
+        "tiempo":[15, 7]
       }
     ]
   }
